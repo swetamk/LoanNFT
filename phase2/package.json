@@ -1,0 +1,21 @@
+{
+  "name": "phase2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "crypto-js": "^4.1.1",
+    "ethers": "^6.3.0",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.9.0"
+  }
+}
